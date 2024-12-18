@@ -1,2 +1,4 @@
-# data_science_tp
-Data Science TP
+# Trabajo Práctico 
+# Certificación Data Science
+
+AirBnb Buenos Aires
